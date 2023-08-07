@@ -138,8 +138,6 @@ wget -q -O /usr/bin/cekl "https://raw.githubusercontent.com/AndyyudaVPN/xraylite
 wget -q -O /usr/bin/dell "https://raw.githubusercontent.com/AndyyudaVPN/xraylite/main/dell.sh"
 wget -q -O /usr/bin/add-vless "https://raw.githubusercontent.com/AndyyudaVPN/xraylite/main/add-vless.sh"
 wget -q -O /usr/bin/update "https://raw.githubusercontent.com/AndyyudaVPN/xraylite/main/update.sh"
-wget https://raw.githubusercontent.com/AndyyudaVPN/xraylite/main/backup/set-br.sh
-bash set-br.sh
 chmod +x /usr/bin/menu-backup
 chmod +x /usr/bin/cekl
 chmod +x /usr/bin/dell
@@ -160,8 +158,6 @@ chmod +x /usr/bin/limit-speed
 chmod +x /usr/bin/menu-vless
 chmod +x /usr/bin/menu-vmess
 chmod +x /usr/bin/menu-ss
-chmod +x /usr/bin/updatsc
-chmod +x /usr/bin/slowdns
 chmod +x /usr/bin/menu-trojan
 chmod +x /usr/bin/trialssh
 chmod +x /usr/bin/menun-ssh
